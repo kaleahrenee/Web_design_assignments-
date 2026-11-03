@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Dogs - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>All About Dogs</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="care.html">Dog Care</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <h2>Welcome to the World of Dogs!</h2>
+
+        <p>
+            Dogs are some of the most popular pets in the world.
+            They are known for being loyal, friendly, and loving companions.
+            Dogs come in many different shapes, sizes, and breeds.
+            Some dogs are small enough to carry, while others are very large.
+            Dogs provide companionship and help people feel less lonely.
+            They can also protect homes and help people with disabilities.
+            Many families consider their dogs important members of the household.
+        </p>
+
+        <hr>
+
+        <h3>Different Types of Dog Breeds</h3>
+
+        <p>
+            There are hundreds of different dog breeds around the world.
+            Some popular breeds include Golden Retrievers, German Shepherds,
+            Poodles, Bulldogs, and Labrador Retrievers.
+            Golden Retrievers are known for being friendly and playful.
+            German Shepherds are intelligent and often work with police officers.
+            Poodles are known for their curly fur and intelligence.
+            Bulldogs are recognizable because of their wrinkled faces.
+            Every dog breed has its own special characteristics and personality.
+        </p>
+
+        <h3>Pictures of Dogs</h3>
+
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1552053831-71594a27632d?w=600"
+                 alt="Golden Retriever sitting outside">
+
+            <img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=600"
+                 alt="Happy dog looking at the camera">
+        </div>
+
+        <hr>
+
+        <h3>Interesting Facts About Dogs</h3>
+
+        <ul>
+            <li>Dogs have an incredible sense of smell.</li>
+            <li>Dogs use their tails to communicate emotions.</li>
+            <li>Dogs can learn commands through training.</li>
+            <li>Dogs dream while they are sleeping.</li>
+        </ul>
+
+        <h3>Learn More About Dogs</h3>
+
+        <p>Visit these websites to learn more about dogs:</p>
+
+        <ul>
+            <li>
+                <a href="https://www.akc.org/" target="_blank">
+                    American Kennel Club
+                </a>
+            </li>
+
+            <li>
+                <a href="https://www.aspca.org/" target="_blank">
+                    American Society for the Prevention of Cruelty to Animals
+                </a>
+            </li>
+        </ul>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 All About Dogs. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Dogs - Dog Care</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>How to Take Care of Dogs</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="care.html">Dog Care</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <h2>Taking Care of Your Dog</h2>
+
+        <p>
+            Taking care of a dog is a big responsibility that requires time,
+            patience, and love.
+            Dogs need fresh water and healthy food every day.
+            They also need regular exercise to stay strong and healthy.
+            Walking your dog is a great way to keep it active.
+            Dogs need regular visits to the veterinarian for checkups.
+            Providing a safe and comfortable home helps dogs feel secure.
+            Giving your dog attention and affection helps it live a happy life.
+        </p>
+
+        <hr>
+
+        <h3>Keeping Dogs Happy and Healthy</h3>
+
+        <p>
+            There are many ways to keep a dog happy and healthy.
+            Playing games like fetch helps dogs stay active and entertained.
+            Grooming is important because brushing keeps their fur clean.
+            Dogs also need a comfortable place to sleep and rest.
+            Training helps dogs learn good behavior and basic commands.
+            Spending time with your dog helps build a strong relationship.
+            Dogs enjoy being around their owners and receiving attention.
+            Giving dogs proper care helps them live longer and healthier lives.
+        </p>
+
+        <h3>Pictures of Dogs</h3>
+
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=600"
+                 alt="Dog enjoying time outdoors">
+
+            <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600"
+                 alt="Cute dog looking at the camera">
+        </div>
+
+        <hr>
+
+        <h3>Important Ways to Care for a Dog</h3>
+
+        <ul>
+            <li>Provide fresh water and healthy food every day.</li>
+            <li>Take your dog on regular walks and provide exercise.</li>
+            <li>Schedule regular veterinary checkups.</li>
+            <li>Give your dog love, attention, and a safe home.</li>
+        </ul>
+
+        <h3>Helpful Dog Care Websites</h3>
+
+        <p>Visit these websites for more information about dog care:</p>
+
+        <ul>
+            <li>
+                <a href="https://www.aspca.org/pet-care/dog-care"
+                   target="_blank">
+                    ASPCA Dog Care
+                </a>
+            </li>
+
+            <li>
+                <a href="https://www.akc.org/expert-advice/health/"
+                   target="_blank">
+                    American Kennel Club Dog Health
+                </a>
+            </li>
+        </ul>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 All About Dogs. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
